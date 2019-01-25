@@ -1,0 +1,5 @@
+patient_id,icd_code,filecreateddate,icdcodetype
+PD1,icd1,25/01/2018,9
+PD1,icd1,26/01/2018,9
+PD1,icd2,27/01/2018,9
+PD1,icd2,28/01/2018,9
